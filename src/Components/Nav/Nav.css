@@ -1,0 +1,7 @@
+.nav a {
+    color: white;
+}
+
+.nav > li > a:focus, .nav > li > a:hover {
+    background-color: rgb(40, 40, 43);
+}
